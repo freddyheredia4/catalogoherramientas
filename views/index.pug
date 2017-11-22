@@ -1,0 +1,12 @@
+extends layout
+
+block content
+  h1= title
+  br
+  div.container
+    table.table.table-striped
+      for herramienta in herramientas
+        tr
+          td= herramienta.id
+          td
+            a(href="/catalogo/"+herramienta.id) #{herramienta.descripcion}

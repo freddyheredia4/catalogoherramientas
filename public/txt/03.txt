@@ -1,0 +1,3 @@
+Un multímetro, también denominado polímetro1​ o tester, es un instrumento eléctrico portátil para medir directamente magnitudes eléctricas activas, como corrientes y potenciales (tensiones), o pasivas, como resistencias, capacidades y otras.
+
+Las medidas pueden realizarse para corriente continua o alterna y en varios márgenes de medida cada una. Los hay analógicos y posteriormente se han introducido los digitales cuya función es la misma, con alguna variante añadida.
